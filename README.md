@@ -172,8 +172,7 @@ sns.barplot(data=df_DA_skills, x='median', y=df_DA_skills.index,  ax=ax[1], hue=
 plt.show()
 ```
 #### Results
-
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the US] (3_Project/images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](3_Project/images/Highest_Paid_and_Most_In_Demand_Skills_for_Data_Analysts_in_the_US.png)
 
 *Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US.*
 
